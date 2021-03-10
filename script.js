@@ -33,6 +33,7 @@ function loadHome()
 {
 	document.getElementById("projectsDiv").style.display = "none";
 	document.getElementById("resumeDiv").style.display = "none";
+	window.scrollTo(0, 0);
 	
 	var header1 = document.getElementsByTagName("h1")[0];
 	var header2 = document.getElementsByTagName("h2")[0];
@@ -54,6 +55,7 @@ function loadResume()
 {
 	document.getElementById("indexDiv").style.display = "none";
 	document.getElementById("projectsDiv").style.display = "none";
+	window.scrollTo(0, 0);
 	
 	document.getElementById("resumeDiv").style.display = "inline-block";
 	
@@ -64,6 +66,7 @@ function loadProjects()
 {
 	document.getElementById("indexDiv").style.display = "none";
 	document.getElementById("resumeDiv").style.display = "none";
+	window.scrollTo(0, 0);
 	
 	document.getElementById("projectsDiv").style.display = "inline-block";
 	
