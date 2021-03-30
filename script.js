@@ -22,7 +22,7 @@ function animateText()
 	
 	anime.timeline({loop: false}).add({
 		targets: '.animationBot .letterBot',
-		opacity: [0, 0.7],
+		opacity: [0, 1],
 		easing: "linear",
 		duration: 1000,
 		delay: 1000
