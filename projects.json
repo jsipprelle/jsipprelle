@@ -1,0 +1,68 @@
+[{
+	"Name": "Reflector",
+	"Language": "Java",
+	"Libraries": "Reflection API",
+	"Description": "Reflector allows a user to debug Java applications by accessing private fields at runtime."
+},
+{
+	"Name": "LifeSim",
+	"Language": "C++",
+	"Libraries": "Stanford C++ libraries",
+	"Description": "LifeSim is a zero-player game with 2-d graphics based on Conway's Game of Life."
+},
+{
+	"Name": "Forcer",
+	"Language": "C++",
+	"Libraries": "C++ standard library",
+	"Description": "Forcer brute forces passwords, given a list of their md5sums."
+},
+{
+	"Name": "WHBot",
+	"Language": "Clingo",
+	"Description": "WarehouseBot provides the optimal solution to one of the 2019 ASP challenge problems."
+},
+{
+	"Name": "SIR",
+	"Language": "Python",
+	"Description": "SIR uses labeled training samples of images of human handwriting to classify images of test data."
+},
+{
+	"Name": "UIR",
+	"Language": "Python",
+	"Description": "UIR clusters unlabeled training samples of human handwriting to cluster images of test data."
+},
+{
+	"Name": "Xchange",
+	"Language": "JavaScript",
+	"Libraries": "dashevo/dashcore-lib",
+	"Description": "EthereumXchange allows users to send the Ethereum cryptocurrency between wallets."
+},
+{
+	"Name": "NeuroSim",
+	"Language": "MATLAB",
+	"Description": "NeuroSim is a spiking neuron simulator that approximates solutions to Hindmarsh–Rose equations using Euler's method.",
+	"Screenshot": "hrm.svg"
+},
+{
+	"Name": "OntologizeThis",
+	"Language": "Java",
+	"Description": "OntologizeThis is an answer set solver for propositional logic formulae.",
+	"Screenshot": "ot.png"
+},
+{
+	"Name": "MessageMe",
+	"Language": "SQL",
+	"Description": "MessageMe is an online, full-stack chat application.",
+	"Screenshot": "messageme.png"
+},
+{
+	"Name": "PI",
+	"Language": "C++",
+	"Libraries": "bison, lex",
+	"Description": "PI is an interpreter for a Pascal-like language."
+},
+{
+	"Name": "TS",
+	"Language": "Java",
+	"Description": "TS is a multithreaded simulation of traffic intersections."
+}]
