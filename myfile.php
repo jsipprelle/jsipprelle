@@ -1,1 +1,1 @@
-echo file_get_contents(__FILE__)
+echo file_get_contents(__FILE__);
